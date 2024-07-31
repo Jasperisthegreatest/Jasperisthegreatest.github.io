@@ -7,4 +7,8 @@ background-color: chocolate;
 }
 a:hover {
     background-color: yellow;
-  }
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
