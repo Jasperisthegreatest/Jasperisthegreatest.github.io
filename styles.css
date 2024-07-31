@@ -8,12 +8,12 @@ background-color: chocolate;
 a:hover {
     background-color: yellow;
 }
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
 .flex-container {
   display: flex;
-  flex-direction: row;
-  background-color: DodgerBlue;
+  flex-direction: row;  
+  flex: 1;
+  background-color: chocolate;
+  justify-content: space-around;
+  align-items: center;
 }
