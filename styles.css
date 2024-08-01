@@ -31,3 +31,6 @@ a:hover {
     margin-right: auto;
     width: 50%;
   }
+  <div>{
+    color: black;
+  }
