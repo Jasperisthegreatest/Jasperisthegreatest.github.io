@@ -32,7 +32,17 @@
         <img src="assets/tiger_burping.png"/>
 
         <script>
-            
+            document.addEventlistener('DOMContentLoaded', () => {
+
+                const result = document.getElementById("result");
+                const user_input = document.getElementById("inputField");
+                const submit = document.getElementById("button");
+
+                submit.addEventListener("click",() => {
+                    result.textContent = user_input.value;
+                });
+
+            })
         </script>
     </body>
 
