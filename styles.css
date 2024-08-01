@@ -30,8 +30,7 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
-<style>
+}
     a:link {
       color: green;
       background-color: transparent;
@@ -49,6 +48,5 @@ a:hover {
       background-color: transparent;
       text-decoration: underline;
     }
-</style>
     
 
