@@ -48,5 +48,9 @@ a:hover {
       background-color: transparent;
       text-decoration: underline;
     }
+    th {
+        font-size: 40px;
+      }
+      
     
 
