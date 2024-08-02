@@ -32,19 +32,19 @@ a:hover {
     width: 50%;
 }
     a:link {
-      color: green;
+      color: black;
       background-color: transparent;
       text-decoration: none;
     }
     
     a:visited {
-      color: green;
+      color: black;
       background-color: transparent;
       text-decoration: none;
     }
     
     a:active {
-      color: green;
+      color: black;
       background-color: transparent;
       text-decoration: underline;
     }
